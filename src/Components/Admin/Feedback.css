@@ -1,0 +1,11 @@
+.Profilecard{
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);}
+@font-face {
+    font-family: 'Kusanagi';
+    src: local("Kusanagi"),url("./Kusanagi.otf")format("truetype");
+}
+.text h1{
+    font-family: Kusanagi;
+}

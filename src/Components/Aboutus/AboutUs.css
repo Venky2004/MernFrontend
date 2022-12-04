@@ -1,0 +1,24 @@
+.Profilecard{
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);}
+.links{
+    text-decoration: none;
+}
+
+/* p{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+font-family: 'Zen Dots', cursive;
+} */
+.profilepic img{
+    border-radius: 100px;
+}
+
+@font-face {
+    font-family: 'Kusanagi';
+    src: local("Kusanagi"),url("./Kusanagi.otf")format("truetype");
+}
+.text h1{
+    font-family: Kusanagi;
+}

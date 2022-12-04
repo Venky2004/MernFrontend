@@ -1,0 +1,9 @@
+::-webkit-scrollbar {
+  display: none;
+}
+#google_translate_element{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  z-index: 1;
+}

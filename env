@@ -1,0 +1,4 @@
+REACT_APP_API_URL = 'https://api.openweathermap.org/data/2.5'
+REACT_APP_API_KEY = "5f75a1bdcc0c4c04bd4ce3577f7fbf1c
+"
+REACT_APP_ICON_URL = 'https://openweathermap.org/img/w'
